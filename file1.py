@@ -1,9 +1,8 @@
-
+<<<<<<< HEAD
 print('Hello')
 print("Hi!")
 name = input("Whats your name? ")
 print(name)
-
-
-for i in range(4):
-    print('p')
+=======
+print('Hello')
+>>>>>>> parent of fd20b31 (name)
